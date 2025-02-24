@@ -20,13 +20,28 @@ The goal of this project is to create a fully-functional online Monopoly game wh
   - WebSockets will enable real-time communication between the server and all connected clients, ensuring that all players can see live updates (e.g., dice rolls, moves, property purchases, etc.).
   - We'll use either **Socket.IO** or the **NestJS WebSocket module** to manage connections and broadcasts.
 
-## Features (Planned)
+# Online Monopoly Game - MVP Completed 🎉  
 
-- **Real-time Multiplayer**: Multiple players can join a game session and play simultaneously.
-- **Turn-Based Logic**: Each player will take turns, and only the active player can roll the dice or perform actions on their turn.
-- **Dice Rolling**: Players can roll virtual dice to determine their movement on the board.
-- **Property Management**: Players can buy, sell, or trade properties, and collect rent from other players who land on their properties.
-- **Game Board Rendering**: The Monopoly board will be displayed visually, and players' tokens will move in real-time based on dice rolls.
-- **Chat Feature** (optional): Players will be able to chat with each other during the game.
-- **Reconnect Feature**: Players who disconnect will be able to reconnect to the game, picking up where they left off.
-- **Bankruptcy and Game Over Conditions**: Handling player bankruptcies and determining the game winner when all other players are eliminated.
+The **MVP** of the Monopoly game project has been successfully implemented! All planned core features are functional, though some bugs remain, and we're actively working on fixing them.  
+
+## ✅ Features (Implemented)  
+
+- **Real-time Multiplayer**: Players can join and play together simultaneously.  
+- **Turn-Based Logic**: Only the active player can roll the dice and take actions.  
+- **Dice Rolling**: Virtual dice determine movement.  
+- **Property Management**: Buying, selling, trading, and rent collection are fully functional.  
+- **Game Board Rendering**: A visual board with real-time player movement.  
+- **Chat Feature**: Players can communicate during the game.  
+- **Reconnect Feature**: Players can rejoin if they disconnect.  
+- **Bankruptcy & Game Over Conditions**: Players are eliminated when bankrupt, and the last one standing wins.  
+
+## 🛠 Current Work  
+- **Bug Fixing**: Addressing various bugs to improve stability.  
+- **Refactoring**: Enhancing code quality using best practices like **SOLID principles**.  
+
+## 🚀 Future Plans  
+- **Friends System & Profiles**: Adding player profiles with custom avatars and friend lists, making it more social.  
+- **In-Game Marketplace**: Introducing a market for custom game items (e.g., unique dice, board fields).  
+
+Exciting updates are on the way! Stay tuned.  
+
