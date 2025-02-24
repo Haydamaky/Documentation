@@ -22,7 +22,15 @@ The goal of this project is to create a fully-functional online Monopoly game wh
 
 # Online Monopoly Game - MVP Completed 🎉  
 
-The **MVP** of the Monopoly game project has been successfully implemented! All planned core features are functional, though some bugs remain, and we're actively working on fixing them.  
+The **MVP** of the Monopoly game project has been successfully implemented! All planned core features are functional, though some bugs remain, and we're actively working on fixing them.
+
+## 🔹 How to Play  
+To enjoy the Monopoly experience, gather a **group of four registered players** (each with a verified email). Follow these simple steps to start playing:  
+
+1. **Go to the Main Page** and click the **"Play"** button.  
+2. **Create a Game Room** or join an existing one.  
+3. Once all four players are connected, you’ll be **automatically redirected** to the **/game** page.  
+4. Enjoy playing Monopoly in real time!  
 
 ## ✅ Features (Implemented)  
 
