@@ -37,7 +37,8 @@ The **MVP** of the Monopoly game project has been successfully implemented! All 
 
 ## 🛠 Current Work  
 - **Bug Fixing**: Addressing various bugs to improve stability.  
-- **Refactoring**: Enhancing code quality using best practices like **SOLID principles**.  
+- **Refactoring**: Enhancing code quality using best practices like **SOLID principles**.
+- **Optimization for All Devices**: Ensuring smooth gameplay across **desktop, tablet, and mobile**.   
 
 ## 🚀 Future Plans  
 - **Friends System & Profiles**: Adding player profiles with custom avatars and friend lists, making it more social.  
