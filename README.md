@@ -30,7 +30,10 @@ To enjoy the Monopoly experience, gather a **group of four registered players** 
 1. **Go to the Main Page** and click the **"Play"** button.  
 2. **Create a Game Room** or join an existing one.  
 3. Once all four players are connected, you’ll be **automatically redirected** to the **/game** page.  
-4. Enjoy playing Monopoly in real time!  
+4. Enjoy playing Monopoly in real time!
+
+## 🎥 Gameplay Demo  
+[![Watch the Video](https://img.youtube.com/vi/iM9VIJhDcVM/0.jpg)](https://youtu.be/iM9VIJhDcVM)
 
 ## ✅ Features (Implemented)  
 
